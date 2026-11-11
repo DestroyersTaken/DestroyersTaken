@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/signal-lab.png">
-    <img src="./assets/signal-lab-animated.gif" alt="Signal Lab oscilloscope, cycling through SentinelProxy, Sentinelstrap, and SentinelTask" width="100%">
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/dots-still.png">
+    <img src="./assets/dots.gif" alt="Blue and violet dots ripple across a dark grid" width="100%">
   </picture>
 </p>
 
