@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="./assets/signal-lab.png" alt="Signal Lab, with a mint-green oscilloscope trace on a dark screen" width="100%">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/signal-lab.png">
+    <img src="./assets/signal-lab-animated.gif" alt="Signal Lab oscilloscope, cycling through SentinelProxy, Sentinelstrap, and SentinelTask" width="100%">
+  </picture>
 </p>
 
 <h1 align="center">Windows tools for routing, launching, and automation</h1>
@@ -17,10 +20,3 @@ Launch Roblox with per-account settings, themes, and a server browser. A compani
 ### [SentinelTask](/../../../SentinelTask)
 
 Record mouse and keyboard input, trim pauses in the timeline, and replay routines with one hotkey.
-
-```text
-$ signal-lab
-  route   SentinelProxy
-  launch  Sentinelstrap
-  replay  SentinelTask
-```
