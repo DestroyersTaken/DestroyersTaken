@@ -1,22 +1,24 @@
+<h1 align="center">Rebuilt for Windows</h1>
+
+<p align="center">Three tools for routing traffic, launching Roblox, and automating repetitive input.</p>
+
 <p align="center">
   <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/dots-still.png">
-    <img src="./assets/dots.gif" alt="Blue and violet dots ripple across a dark grid" width="100%">
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/contribution-grid.svg">
+    <img src="./assets/contribution-glitch.svg" alt="A pixel drone races through the public contribution grid, turning active days into glitching diamonds" width="100%">
   </picture>
 </p>
 
-<h1 align="center">Windows tools for routing, launching, and automation</h1>
-
-## Projects
+## Sentinel projects
 
 ### [SentinelProxy](/../../../SentinelProxy)
 
-Route Windows apps through SOCKS5, HTTP, or HTTPS proxies. Set rules by app, destination, or port, then watch connections live.
+A Proxifier alternative with live connection monitoring, rules by app, destination, or port, and proxy failover with health checks.
 
 ### [Sentinelstrap](/../../../Sentinelstrap)
 
-Launch Roblox with per-account settings, themes, and a server browser. A companion browser extension puts server tools on Roblox game pages.
+A Bloxstrap and Fishstrap alternative with import support, per-account settings, live window previews, and a companion browser extension.
 
 ### [SentinelTask](/../../../SentinelTask)
 
-Record mouse and keyboard input, trim pauses in the timeline, and replay routines with one hotkey.
+A TinyTask alternative with a timeline editor, precise multi-monitor playback, and a focus guard that pauses when the target window loses focus.
