@@ -5,7 +5,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-reduced-motion: reduce)" srcset="./assets/contribution-grid.svg">
-    <img src="./assets/contribution-glitch.svg" alt="A pixel drone races through the public contribution grid, turning active days into glitching diamonds" width="100%">
+    <img src="./assets/contribution-glitch.svg" alt="Three Sentinel drones race through portals on a seamless neon infinity circuit" width="100%">
   </picture>
 </p>
 
